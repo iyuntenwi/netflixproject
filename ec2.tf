@@ -1,2 +1,4 @@
 # code to create EC2
 # type --> t2.micro
+# OS ---> windows
+# staging area
